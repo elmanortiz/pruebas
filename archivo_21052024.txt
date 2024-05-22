@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-prueba que se el realizo el dia de hoy
-=======
-
->>>>>>> refs/remotes/origin/main
